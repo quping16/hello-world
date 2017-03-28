@@ -1,5 +1,5 @@
 # hello-world
-Welcome to my github site.
+Welcome to my github site!
 
 My name is Pingping Qu. Some people call me Pingping and others call me Ping. I like both-:)
 
