@@ -8,5 +8,7 @@ I am a statistician with over 10 years of experience in data analysis. I love im
 My specialities -
 
 Machine Learning / Data Mining: linear and non-linear modeling, clustering, discriminant analysis, logistic regression, decision trees, random forest, SVM, neural networks 
+
 Survival Analysis: Kaplan-Meier estimates, (ordered) logrank test, Cox regression, survival trees, cumulative incidence
+
 Genomic Data Analysis: visualization, subgroup discovery, derivation of prognostic/predictive markers, batch effect correction
